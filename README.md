@@ -1,2 +1,3 @@
-# pitonic.github.io
-my web site
+pitonic.github.io
+=====================
+Welcome to my portfolio.
